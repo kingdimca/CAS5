@@ -1,0 +1,20 @@
+.site-header {
+    background-color:black;
+}
+
+a.nav-link {
+    color:red
+}
+
+p,
+h1 {
+    color:red
+}
+
+.color-text {
+    color:yellow
+}
+
+#paragraph {
+    color:blue
+}
